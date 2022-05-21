@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TestProject1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\katar\\source\\repos\\TestProject1\\TestProject1\\Debug",
+      "nativeDebugging": true
+    }
+  }
+}
